@@ -53,11 +53,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # Aktifkan aset gambar
   assets:
     - assets/images/
 
-  # Daftarkan font kustom (Kriteria 5)
   fonts:
     - family: Poppins
       fonts:
