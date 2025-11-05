@@ -19,11 +19,9 @@ Aplikasi ini menerapkan state management sederhana (StatefulWidget), navigasi, r
 
 ## Screenshot Aplikasi
 
-(SANGAT WAJIB: Ambil screenshot dari emulator Anda dan unggah ke GitHub, lalu tampilkan di sini)
-
-![Welcome Screen](link-ke-screenshot-welcome.png)
-![Quiz Screen](link-ke-screenshot-quiz.png)
-![Score Screen](link-ke-screenshot-score.png)
+![Welcome Screen](<img width="379" height="783" alt="Image" src="https://github.com/user-attachments/assets/d39d0acf-a557-44e3-bf63-670692353758" />)
+![Quiz Screen](<img width="365" height="763" alt="Image" src="https://github.com/user-attachments/assets/3887effc-1490-4a26-8870-87d2cc4177fe" />)
+![Score Screen](<img width="373" height="779" alt="Image" src="https://github.com/user-attachments/assets/c68d30bf-e9cf-4703-b7af-562ba45fb2ce" />)
 
 ## Credit Aset
 
