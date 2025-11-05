@@ -1,16 +1,31 @@
-# uts_pm4_quizapp
+- **Nama:** Ahmad Sufadil
+- **NIM:** 231401119
+- **Lab:** PM4
 
-A new Flutter project.
+## Nama Aplikasi
 
-## Getting Started
+**Quizzin**
 
-This project is a starting point for a Flutter application.
+## Deskripsi Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini memungkinkan pengguna untuk:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1.  Memasukkan nama.
+2.  Menjawab serangkaian pertanyaan pilihan ganda.
+3.  Melihat skor akhir berdasarkan jawaban yang benar.
+4.  Mengulang kuis dari awal.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini menerapkan state management sederhana (StatefulWidget), navigasi, reusable widget, custom font, dan desain responsif dasar.
+
+## Screenshot Aplikasi
+
+(SANGAT WAJIB: Ambil screenshot dari emulator Anda dan unggah ke GitHub, lalu tampilkan di sini)
+
+![Welcome Screen](link-ke-screenshot-welcome.png)
+![Quiz Screen](link-ke-screenshot-quiz.png)
+![Score Screen](link-ke-screenshot-score.png)
+
+## Credit Aset
+
+- **Font:** [Poppins](https://fonts.google.com/specimen/Poppins)
+- **BAckground:** https://unsplash.com/id/foto/buka-buku-di-atas-beberapa-buku-bertumpuk-9DaOYUYnOls

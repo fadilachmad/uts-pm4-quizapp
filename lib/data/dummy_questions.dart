@@ -4,33 +4,23 @@ import '../models/question_model.dart';
 
 final List<Question> dummyQuestions = [
   Question(
-    questionText: "Apa komponen utama dalam Flutter untuk membangun UI?",
-    options: ["Widgets", "Components", "Views", "Elements"],
+    questionText: "5 * 5",
+    options: ["25", "20", "15", "30"],
     correctAnswerIndex: 0,
   ),
   Question(
-    questionText: "Manakah yang merupakan StatefulWidget?",
-    options: ["Text", "Container", "Scaffold", "TextField"],
+    questionText: "45-10",
+    options: ["15", "25", "40", "35"],
     correctAnswerIndex: 3,
   ),
   Question(
-    questionText: "Bagaimana cara menjalankan 'flutter pub get'?",
-    options: [
-      "Lewat Terminal",
-      "Lewat Browser",
-      "Lewat Email",
-      "Lewat Photoshop",
-    ],
+    questionText: "280 + 30",
+    options: ["310", "300", "320", "330"],
     correctAnswerIndex: 0,
   ),
   Question(
-    questionText: "Apa fungsi dari 'setState()'?",
-    options: [
-      "Menghapus state",
-      "Memberi tahu Flutter untuk membangun ulang UI",
-      "Membuat widget baru",
-      "Mengambil data dari API",
-    ],
+    questionText: "80 / 4",
+    options: ["80", "20", "2", "8"],
     correctAnswerIndex: 1,
   ),
 ];
