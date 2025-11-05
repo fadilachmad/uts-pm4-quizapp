@@ -60,7 +60,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                     style: TextStyle(fontSize: 24, color: Colors.white),
                   ),
                   Text(
-                    "Quiz PM4",
+                    "Quizin",
                     style: TextStyle(
                       fontSize: 48,
                       fontWeight: FontWeight.bold,
